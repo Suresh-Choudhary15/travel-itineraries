@@ -1,0 +1,274 @@
+{
+  "itineraries": [
+    {
+      "id": 1,
+      "title": "Romantic Paris Getaway",
+      "destination": "Paris, France",
+      "duration": "5 days",
+      "price": 1299,
+      "image": "/image/paris.jpg",
+      "description": "Experience the magic of Paris with this carefully curated romantic getaway. Visit the Eiffel Tower, explore Montmartre, and cruise along the Seine.",
+      "highlights": [
+        "Eiffel Tower",
+        "Louvre Museum",
+        "Seine River Cruise",
+        "Versailles Palace"
+      ],
+      "difficulty": "Easy",
+      "bestTimeToVisit": "April-June, September-October",
+      "rating": 4.8
+    },
+    {
+      "id": 2,
+      "title": "Tokyo Adventure",
+      "destination": "Tokyo, Japan",
+      "duration": "7 days",
+      "price": 2499,
+      "image": "/image/japan.jpg",
+      "description": "Immerse yourself in Japanese culture with this comprehensive Tokyo tour. From ancient temples to modern technology.",
+      "highlights": [
+        "Shibuya Crossing",
+        "Senso-ji Temple",
+        "Tokyo Tower",
+        "Tsukiji Market"
+      ],
+      "difficulty": "Moderate",
+      "bestTimeToVisit": "March-May, September-November",
+      "rating": 4.9
+    },
+    {
+      "id": 3,
+      "title": "New York City Explorer",
+      "destination": "New York, USA",
+      "duration": "4 days",
+      "price": 999,
+      "image": "/image/new_york.jpg",
+      "description": "Experience the best of NYC in 4 action-packed days. From Broadway to Central Park, see it all!",
+      "highlights": [
+        "Times Square",
+        "Central Park",
+        "Broadway Show",
+        "Statue of Liberty"
+      ],
+      "difficulty": "Easy",
+      "bestTimeToVisit": "April-June, September-November",
+      "rating": 4.7
+    },
+    {
+      "id": 4,
+      "title": "Australian Outback Adventure",
+      "destination": "Sydney, Australia",
+      "duration": "10 days",
+      "price": 3299,
+      "image": "/image/australia.jpg",
+      "description": "Explore the diverse landscapes of Australia, from the iconic Sydney Opera House to the rugged Outback.",
+      "highlights": [
+        "Sydney Opera House",
+        "Great Barrier Reef",
+        "Uluru",
+        "Bondi Beach"
+      ],
+      "difficulty": "Moderate",
+      "bestTimeToVisit": "September-November, March-May",
+      "rating": 4.9
+    },
+    {
+      "id": 5,
+      "title": "Italian Food & Culture Tour",
+      "destination": "Rome, Italy",
+      "duration": "6 days",
+      "price": 1899,
+      "image": "/image/italian_food.jpg",
+      "description": "Savor the flavors of Italy while exploring historic Rome. Includes cooking classes and wine tasting.",
+      "highlights": [
+        "Colosseum",
+        "Vatican Museums",
+        "Cooking Class",
+        "Wine Tasting"
+      ],
+      "difficulty": "Easy",
+      "bestTimeToVisit": "April-May, September-October",
+      "rating": 4.8
+    },
+    {
+      "id": 6,
+      "title": "Machu Picchu Trek",
+      "destination": "Cusco, Peru",
+      "duration": "8 days",
+      "price": 2199,
+      "image": "/image/peru_machu_picchu.jpg",
+      "description": "Journey through the Andes to discover the ancient Incan citadel of Machu Picchu.",
+      "highlights": [
+        "Inca Trail",
+        "Machu Picchu",
+        "Sacred Valley",
+        "Cusco City"
+      ],
+      "difficulty": "Challenging",
+      "bestTimeToVisit": "May-October",
+      "rating": 4.9
+    },
+    {
+      "id": 7,
+      "title": "Northern Lights Adventure",
+      "destination": "Reykjavik, Iceland",
+      "duration": "5 days",
+      "price": 1799,
+      "image": "/image/northern_lights_adventures.jpg",
+      "description": "Chase the aurora borealis and explore Iceland's stunning natural wonders.",
+      "highlights": [
+        "Northern Lights",
+        "Blue Lagoon",
+        "Golden Circle",
+        "Glacier Walk"
+      ],
+      "difficulty": "Moderate",
+      "bestTimeToVisit": "September-March",
+      "rating": 4.7
+    },
+    {
+      "id": 8,
+      "title": "Safari Experience",
+      "destination": "Nairobi, Kenya",
+      "duration": "7 days",
+      "price": 2899,
+      "image": "/image/safari_adventures.jpg",
+      "description": "Witness the incredible wildlife of Africa in their natural habitat.",
+      "highlights": [
+        "Masai Mara",
+        "Big Five Safari",
+        "Tribal Village Visit",
+        "Sunrise Hot Air Balloon"
+      ],
+      "difficulty": "Moderate",
+      "bestTimeToVisit": "June-October",
+      "rating": 4.9
+    },
+    {
+      "id": 9,
+      "title": "Thailand Beach Escape",
+      "destination": "Phuket, Thailand",
+      "duration": "6 days",
+      "price": 1299,
+      "image": "/image/thailand_beach.jpg",
+      "description": "Relax on pristine beaches and explore tropical islands in the Andaman Sea.",
+      "highlights": [
+        "Phi Phi Islands",
+        "Thai Massage",
+        "Island Hopping",
+        "Night Markets"
+      ],
+      "difficulty": "Easy",
+      "bestTimeToVisit": "November-April",
+      "rating": 4.6
+    },
+    {
+      "id": 10,
+      "title": "Swiss Alps Adventure",
+      "destination": "Zurich, Switzerland",
+      "duration": "6 days",
+      "price": 2499,
+      "image": "/image/swiss_alps.jpg",
+      "description": "Experience the majesty of the Swiss Alps with hiking, scenic trains, and chocolate tasting.",
+      "highlights": [
+        "Jungfraujoch",
+        "Lake Lucerne",
+        "Chocolate Workshop",
+        "Mountain Hiking"
+      ],
+      "difficulty": "Moderate",
+      "bestTimeToVisit": "June-September",
+      "rating": 4.8
+    },
+    {
+      "id": 11,
+      "title": "Greek Island Hopping",
+      "destination": "Athens, Greece",
+      "duration": "9 days",
+      "price": 2199,
+      "image": "/image/symi_island_greece.jpg",
+      "description": "Explore the best of Greek islands, from ancient ruins to stunning beaches.",
+      "highlights": [
+        "Santorini Sunset",
+        "Acropolis",
+        "Mykonos Beaches",
+        "Local Cuisine"
+      ],
+      "difficulty": "Easy",
+      "bestTimeToVisit": "May-September",
+      "rating": 4.7
+    },
+    {
+      "id": 12,
+      "title": "Morocco Desert Experience",
+      "destination": "Marrakech, Morocco",
+      "duration": "7 days",
+      "price": 1699,
+      "image": "/image/desert_morocco.jpg",
+      "description": "Journey through the Sahara Desert and experience traditional Moroccan culture.",
+      "highlights": [
+        "Sahara Camping",
+        "Camel Trek",
+        "Medina Tour",
+        "Atlas Mountains"
+      ],
+      "difficulty": "Moderate",
+      "bestTimeToVisit": "October-April",
+      "rating": 4.8
+    },
+    {
+      "id": 13,
+      "title": "Vietnam Cultural Journey",
+      "destination": "Hanoi, Vietnam",
+      "duration": "8 days",
+      "price": 1499,
+      "image": "/image/vietnam_cultural_journey.jpg",
+      "description": "Discover the rich culture and history of Vietnam from north to south.",
+      "highlights": [
+        "Ha Long Bay",
+        "Cu Chi Tunnels",
+        "Cooking Class",
+        "Mekong Delta"
+      ],
+      "difficulty": "Easy",
+      "bestTimeToVisit": "October-April",
+      "rating": 4.6
+    },
+    {
+      "id": 14,
+      "title": "Canadian Rockies Explorer",
+      "destination": "Vancouver, Canada",
+      "duration": "7 days",
+      "price": 2299,
+      "image": "/image/canadian_rockies.jpg",
+      "description": "Experience the stunning beauty of the Canadian Rockies and wildlife.",
+      "highlights": [
+        "Banff National Park",
+        "Lake Louise",
+        "Glacier Walk",
+        "Wildlife Viewing"
+      ],
+      "difficulty": "Moderate",
+      "bestTimeToVisit": "June-September",
+      "rating": 4.9
+    },
+    {
+      "id": 15,
+      "title": "Spanish Fiesta",
+      "destination": "Barcelona, Spain",
+      "duration": "6 days",
+      "price": 1599,
+      "image": "/image/spanish_fiesta.jpg",
+      "description": "Experience the vibrant culture of Spain through its food, art, and architecture.",
+      "highlights": [
+        "Sagrada Familia",
+        "Flamenco Show",
+        "Tapas Tour",
+        "Park Güell"
+      ],
+      "difficulty": "Easy",
+      "bestTimeToVisit": "April-June, September-October",
+      "rating": 4.7
+    }
+  ]
+}
