@@ -1,36 +1,54 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Travel Itinerary Listing | Next.js
 
-## Getting Started
+An interactive travel itinerary listing page built with Next.js, shadcn/ui components and Tailwind CSS.
 
-First, run the development server:
+## Features
+- View curated travel itineraries 
+- Filter by destination and price
+- Search itineraries
+- View detailed itinerary information
+- Mobile responsive design
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Tech Stack
+  -Next.js
+  -React
+  -Tailwind CSS
+  -shadcn/ui components
+  -Lucide React icons
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Key Features Implementation
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## Search & Filter
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+-Text search by title
+-Destination dropdown filter
+-Price range filter with min/max
 
-## Learn More
+## Itinerary Cards
 
-To learn more about Next.js, take a look at the following resources:
+-Image thumbnail
+-Basic info display
+-View details button
+-Buy now action
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Modal View
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+-Full itinerary details
+-Larger image
+-Highlights list
+-Additional info
 
-## Deploy on Vercel
+### Development
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+1. Clone repository
+   
+   git clone [repository-url]
+   cd travel-itinerary
+   
+2. Install dependencies
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+   npm install
+
+3. Start development server
+
+   npm run dev
